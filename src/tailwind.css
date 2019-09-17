@@ -3,3 +3,12 @@
 @tailwind components;
 
 @tailwind utilities;
+
+a {
+  @apply no-underline;
+  color: #0366d6;
+}
+
+a:hover, a:focus, a:active {
+  @apply underline;
+}
