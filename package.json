@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-github-login",
+  "version": "1.0.0",
+  "description": "This is the sample code for a live demo done during my presentation _Make styling a breeze with Tailwind CSS_.",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonmccreary/tailwind-github-login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonmccreary/tailwind-github-login/issues"
+  },
+  "homepage": "https://github.com/jasonmccreary/tailwind-github-login#readme"
+}
